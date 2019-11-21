@@ -59,7 +59,7 @@ driver.get(urlpage)
 
 # execute script
 
-startdate = datetime.date(2012,5,1)
+startdate = datetime.date(2005,1,1)
 
 enddate = datetime.date.today()
 
